@@ -1,0 +1,10 @@
+#!/bin/bash
+
+chmod u+x 0-current_working_directory 
+chmod u+x 4-listmorefiles     
+chmod u+x 1-listit          
+chmod u+x 5-listfilesdigitonly
+chmod u+x 2-bring_me_home      
+chmod u+x 6-firstdirectory    
+chmod u+x 3-listfiles   
+chmod u+x 7-movethatfile
