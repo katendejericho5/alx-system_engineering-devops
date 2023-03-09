@@ -1,3 +1,1 @@
-#!/bin/bash
-this repo consists of my files
-
+This repo is about linux 
