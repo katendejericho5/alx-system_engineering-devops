@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /tmp/my_first_directoryh
+ln -s /bin/ls __ls__
